@@ -4,7 +4,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasdaniel2201&theme=dark"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,react,git,postgres,mysql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,react,git,postgres,mysql,prisma,postman)](https://skillicons.dev)
  ##
   
 <div>
