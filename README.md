@@ -3,11 +3,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasdaniel2201&theme=dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasdaniel2201&theme=dark"/>
 </div>
-  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  
-          
- 
  ##
   
 <div>
