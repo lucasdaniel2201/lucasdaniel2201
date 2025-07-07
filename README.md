@@ -1,7 +1,7 @@
 ## Olá, me chamo Lucas e sou estudante de análise e desenvolvimento de sistemas
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasdaniel2201&theme=dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasdaniel2201&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasdaniel2201&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
