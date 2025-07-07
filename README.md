@@ -1,8 +1,9 @@
 ## Olá, me chamo Lucas e sou estudante de análise e desenvolvimento de sistemas
 <div align="center">
   <a href="https://github.com/lucasdaniel2201">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdaniel2201&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdaniel2201&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdaniel2201&show_icons=true&theme=dark" alt="Lucas Daniel's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdaniel2201&layout=compact&langs_count=7&theme=dark" alt="Lucas Daniel's Top Languages"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
